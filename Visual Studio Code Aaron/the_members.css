@@ -1,0 +1,45 @@
+#lizking {
+    font-weight: bold;
+    font-size: 23px;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+}
+
+#rocks {
+    font-weight: bold;
+    font-size: 23px;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gray;
+}
+
+#gameraaron33 {
+    font-weight: bold;
+    font-size: 23px;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}
+
+#davidthemerc {
+    font-weight: bold;
+    font-size: 23px;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkred;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left
+}
+
+img {
+    border: none;
+    
+}
+
+body {
+    background-color: darkolivegreen;
+}
