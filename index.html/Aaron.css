@@ -1,0 +1,27 @@
+h1 {
+color : #F58401;
+font-weight: bold;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+font-family: "Comic Sans MS";
+background-color: salmon;
+}
+.MyWebsite {
+width: 100%;
+text-align: center;
+}
+
+p {
+    font-size: 20px;
+   text-align: left;
+   
+}
+
+
+img {
+    border: none;
+    text-align: top;
+}
